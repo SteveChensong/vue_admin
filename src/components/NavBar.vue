@@ -1,5 +1,35 @@
 <template>
-    <div class="nav-link">侧边导航</div>
+    <div class="nav-link">
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+        <div>侧边导航</div>
+    </div>
 </template>
 <script>
 export default {
@@ -13,8 +43,10 @@ export default {
 </script>
 <style scoped>
 .nav-link{
-    width: 120px;
-    color: rgba(0, 0, 0, .6);
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
     text-align: center;
 }
 </style>
