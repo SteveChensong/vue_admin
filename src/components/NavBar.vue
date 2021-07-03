@@ -14,21 +14,6 @@
         <div>侧边导航</div>
         <div>侧边导航</div>
         <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
-        <div>侧边导航</div>
     </div>
 </template>
 <script>
